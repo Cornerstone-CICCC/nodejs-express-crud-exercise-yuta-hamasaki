@@ -19,7 +19,7 @@
     - `/products` : GET request for all products
     - `/products` : POST request to add one product
     - `/products/:id` : GET request to fetch one product based on id
-    - `/products/:id` : UPDATE request to update one product based on id
+    - `/products/:id` : PUT request to update one product based on id
     - `/products/:id` : DELETE request to delete one product based on id
 
 7. Start your server by compiling your TypeScript and running `nodemon index.js` if your server filename is index.js
