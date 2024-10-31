@@ -1,6 +1,6 @@
 # NodeJS - Express.js CRUD Exercise
 
-**Goal:** Create a simple CRUD backend server using Express.js
+**Goal:** Create a CRUD backend server using Express.js and TypeScript.
 
 ## Instructions
 
