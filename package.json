@@ -1,0 +1,20 @@
+{
+  "dependencies": {
+    "@types/express": "^5.0.0",
+    "express": "^4.21.1",
+    "typescript": "^5.6.3",
+    "uuid": "^11.0.2"
+  },
+  "name": "nodejs-express-crud-exercise-yuta-hamasaki",
+  "description": "[![Review Assignment Due Date](https://classroom.github.com/assets/deadline-readme-button-22041afd0340ce965d47ae6ef1cefeee28c7c493a6346c4f15d667ab976d596c.svg)](https://classroom.github.com/a/xNSFJ1Ic) # NodeJS - Express.js CRUD Exercise",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "build": "npx tsc",
+    "start": "node dist/server.js",
+    "dev": "nodemon server.ts"
+  },
+  "keywords": [],
+  "author": "Yuta Hamasaki",
+  "license": "ISC"
+}
